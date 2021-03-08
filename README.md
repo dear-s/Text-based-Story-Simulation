@@ -4,6 +4,8 @@
 
 - developed at Athena Hacks 2021 within 24 hours
 
+- Deployed the Unity WebGL at https://simmer.io/@sanya638/wonder-town Go ahead and immerse yourself in this simple storytelling ride!!
+
 - This story telling is all about making them aware about the outbreak of covid, how he learn about it and the urge to help or in this case 'get face masks'.
 
 - We tried to give emphasis on how users are handling their relationships with older people as they have greater risks of getting hospitalization or dying if they are diagnosed with covid.
