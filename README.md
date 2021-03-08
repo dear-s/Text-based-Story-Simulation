@@ -12,4 +12,4 @@
 
 - Users need to understand if their choice is acceptable or not. The goal is to help them prepare with the real-life motivational stories and get them prepared.
 
-![Output sample](https://github.com/dear-s/Text-based-Story-Simulation/blob/main/screen-capture.gif)
+![Output sample](https://github.com/dear-s/Text-based-Story-Simulation/blob/master/screen-capture.gif)
